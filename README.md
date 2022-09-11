@@ -1,15 +1,13 @@
-#### React Router Fix
+# Cocktails
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+### Overview
+Cocktails Project which fetches data with about cocktails from an API which are displayed nicely using cards. The app has multiple pages which provides more info about cocktails. A search functionality to fetch cocktails that matches the search parameter.
 
-#### CRA Fix
+### How to start
 
-```
+In order to start this application, follow these steps
 
-"build": "CI= react-scripts build",
-
-```
-
-```sh
-npm install react-router-dom@6
-```
+1. Clone, fork or download this repository locally.
+2. Open your terminal to where this repo was cloned, forked or downloaded to locally.
+3. Install dependencies with `npm install`
+4. Start the project - `npm start`
